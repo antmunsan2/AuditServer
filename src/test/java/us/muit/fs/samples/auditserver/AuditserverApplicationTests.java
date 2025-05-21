@@ -1,4 +1,4 @@
-package us.mitfs.samples.auditserver;
+package us.muit.fs.samples.auditserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
